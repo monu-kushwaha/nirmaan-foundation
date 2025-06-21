@@ -829,7 +829,7 @@
                      <div class="team__single van-tilt">
                         <div class="team__single-thumb">
                            <a href="team-details.php">
-                              <img src="http://localhost/nirmal-foundation/images/image1.jpg" alt="Image" class="img-fluid team-images">
+                              <img src="images/image1.jpg" alt="Image" class="img-fluid team-images">
                            </a>
                            <div class="team__icons">
                               <div class="team__single-content__icon">

@@ -116,7 +116,7 @@
                                  <div class="col-12 col-xl-3">
                                     <div class="footer__copyright-logo text-center text-xl-start">
                                        <a href="index.php">
-                                          <img src="http://localhost/nirmal-foundation/images/logo1.jpg" alt="Image">
+                                          <img src="images/logo1.jpg" alt="Image">
                                        </a>
                                     </div>
                                  </div>
@@ -131,8 +131,8 @@
                                  <div class="col-12 col-xl-3">
                                     <div class="footer__bottom-left">
                                        <ul class="footer__bottom-list justify-content-center justify-content-xl-end">
-                                          <li><a href="terms-conditions.php">Terms & Conditions</a></li>
-                                          <li><a href="privacy-policy.php">Privacy Policy</a></li>
+                                          <li><a href="#">Terms & Conditions</a></li>
+                                          <li><a href="#">Privacy Policy</a></li>
                                        </ul>
                                     </div>
                                  </div>

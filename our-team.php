@@ -134,7 +134,7 @@
                      <div class="team__single van-tilt">
                         <div class="team__single-thumb">
                            <a href="team-details.html">
-                              <img src="http://localhost/nirmal-foundation/images/image1.jpg" alt="Image" class="team-images">
+                              <img src="images/image1.jpg" alt="Image" class="team-images">
                            </a>
                            <div class="team__icons">
                               <div class="team__single-content__icon">

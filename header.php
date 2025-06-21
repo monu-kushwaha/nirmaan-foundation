@@ -50,7 +50,7 @@
                      <nav class="navbar p-0">
                         <div class="navbar-logo">
                            <a href="index.php">
-                              <img src="http://localhost/nirmaan-foundation/images/logo1.jpg" alt="Image">
+                              <img src="images/logo1.jpg" alt="Image">
                            </a>
                         </div>
                         <div class="navbar__menu d-none d-xl-block">
@@ -63,24 +63,21 @@
                                 
                               </li>
                               <li class="navbar__item nav-fade">
-                                 <a href="http://localhost/nirmaan-foundation/index.php#aboutSection">About Us</a>
+                                 <a href="index.php#aboutSection">About Us</a>
                               </li>
                               <li class="navbar__item nav-fade">
-                                 <a href="http://localhost/nirmaan-foundation/index.php#causeSection">Causes</a>
+                                 <a href="our-causes.php">Causes</a>
                               </li>
                               <li class="navbar__item nav-fade">
-                                 <a href="http://localhost/nirmaan-foundation/index.php#faqSection">FAQ</a>
+                                 <a href="index.php#faqSection">FAQ</a>
                               </li>
                               <li class="navbar__item nav-fade">
-                                 <a href="http://localhost/nirmaan-foundation/index.php#eventSection">Event</a>
+                                 <a href="our-team.php">Team</a>
+                                 
                               </li>
                               <li class="navbar__item nav-fade">
-                              <a href="http://localhost/nirmaan-foundation/index.php#teamSection">Team</a>
-
+                                 <a href="contact-us.php">Contact Us</a>
                               </li>
-                              <!-- <li class="navbar__item nav-fade">
-                                 <a href="#blogSection">Blog</a>
-                              </li> -->
                            </ul>
                         </div>
                         <div class="navbar__options">
@@ -94,11 +91,6 @@
                                     <a href="tel:9115866279">9115866279</a>
                                  </div>
                               </div>
-                              <!-- <div class="search-box">
-                                 <button class="open-search" aria-label="search products" title="open search box">
-                                    <i class="fa-solid fa-magnifying-glass"></i>
-                                 </button>
-                              </div> -->
                               <a href="donate-us.php" class="btn--primary d-none d-md-flex">
                                 Donate Now <i class="fa-solid fa-arrow-circle-right"></i>
                             </a>
